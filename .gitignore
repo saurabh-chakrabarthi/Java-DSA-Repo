@@ -1,15 +1,14 @@
+# Build output
+target/
+out/
 
+# Maven
+*.iml
+
+# IDE
+.idea/
+.vscode/
 .DS_Store
-easy-notes/
-Leetcode_company_frequency/
-CtCI-6th-Edition/
-coding-interview-university/
-.DS_Store
-java-8-lambdas-exercises/
-.DS_Store
-Java_Master_POC/.idea/aws.xml
-Java_Master_POC/.idea/aws.xml
-Java_Master_POC/.idea/aws.xml
-Java_Master_POC/.idea/aws.xml
-Movie_Rating_MicroServices/
-spring-boot-poc/
+
+# PDFs
+*.pdf
