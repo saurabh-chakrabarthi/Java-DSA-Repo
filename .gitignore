@@ -10,5 +10,17 @@ out/
 .vscode/
 .DS_Store
 
+# Nested / legacy project metadata
+**/.idea/
+**/.vscode/
+**/*.iml
+**/out/
+
+# Never commit recovery credentials or other local secrets.
+github-recovery-codes.txt
+*.local
+*.secret
+
 # PDFs
 *.pdf
+!docs/resources/*.pdf

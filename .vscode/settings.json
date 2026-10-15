@@ -1,25 +1,3 @@
 {
-    "java.project.sourcePaths": [
-        "CtCI-6th-Edition/Java/Introduction",
-        "CtCI-6th-Edition/Java/CtCILibrary",
-        "CtCI-6th-Edition/Java/Ch 17. Hard",
-        "CtCI-6th-Edition/Java/Ch 16. Moderate",
-        "CtCI-6th-Edition/Java/Ch 15. Threads and Locks",
-        "CtCI-6th-Edition/Java/Ch 13. Java",
-        "CtCI-6th-Edition/Java/Ch 10. Sorting and Searching",
-        "CtCI-6th-Edition/Java/Ch 09. Scalability and Memory Limits",
-        "CtCI-6th-Edition/Java/Ch 08. Recursion and Dynamic Programming",
-        "CtCI-6th-Edition/Java/Ch 07. Object-Oriented Design",
-        "CtCI-6th-Edition/Java/Ch 06. Math and Logic Puzzles",
-        "CtCI-6th-Edition/Java/Ch 05. Bit Manipulation",
-        "CtCI-6th-Edition/Java/Ch 04. Trees and Graphs",
-        "CtCI-6th-Edition/Java/Ch 03. Stacks and Queues",
-        "CtCI-6th-Edition/Java/Ch 02. Linked Lists",
-        "CtCI-6th-Edition/Java/Ch 01. Arrays and Strings",
-        "CtCI-6th-Edition/Java/Big O",
-        "Java_Master_POC/src/main/java/com/java/poc/dsa/array"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true,
-    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable",
     "java.compile.nullAnalysis.mode": "automatic"
 }
